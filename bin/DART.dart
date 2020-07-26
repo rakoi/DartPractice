@@ -2,10 +2,6 @@
 
 import 'dart:math';
 
-class Names{
-  var fname="Brian";
-  var lname="Rakoi";
-}
 
 generateRandomNumbersArray(size){
   var allnums=[];
